@@ -1,0 +1,4 @@
+max-line-length = 160
+exclude = .git,.idea,.pytest_cache,venv,test
+format = html
+htmldir = flake8-html
